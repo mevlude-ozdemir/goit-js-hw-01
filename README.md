@@ -1,2 +1,2 @@
 # goit-js-hw-01
- javaScript Ödev1
+ JavaScript ödev1
